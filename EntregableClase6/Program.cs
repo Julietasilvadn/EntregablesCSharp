@@ -5,7 +5,7 @@
     private string apellido;
     private string nombreUsuario;
     private string contraseña;
-    private string mail;
+    private string email;
 }
 
 public class Producto
