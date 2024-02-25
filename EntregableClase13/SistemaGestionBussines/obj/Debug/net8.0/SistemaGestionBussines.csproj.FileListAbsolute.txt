@@ -1,0 +1,6 @@
+C:\Users\Jula\Desktop\CODERHOUSE\C#\Clonados\EntregablesCSharp\EntregableClase13\SistemaGestionBussines\obj\Debug\net8.0\SistemaGestionBussines.csproj.AssemblyReference.cache
+C:\Users\Jula\Desktop\CODERHOUSE\C#\Clonados\EntregablesCSharp\EntregableClase13\SistemaGestionBussines\obj\Debug\net8.0\SistemaGestionBussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jula\Desktop\CODERHOUSE\C#\Clonados\EntregablesCSharp\EntregableClase13\SistemaGestionBussines\obj\Debug\net8.0\SistemaGestionBussines.AssemblyInfoInputs.cache
+C:\Users\Jula\Desktop\CODERHOUSE\C#\Clonados\EntregablesCSharp\EntregableClase13\SistemaGestionBussines\obj\Debug\net8.0\SistemaGestionBussines.AssemblyInfo.cs
+C:\Users\Jula\Desktop\CODERHOUSE\C#\Clonados\EntregablesCSharp\EntregableClase13\SistemaGestionBussines\obj\Debug\net8.0\SistemaGestionBussines.csproj.CoreCompileInputs.cache
+C:\Users\Jula\Desktop\CODERHOUSE\C#\Clonados\EntregablesCSharp\EntregableClase13\SistemaGestionBussines\obj\Debug\net8.0\SistemaGestionBussines.sourcelink.json
