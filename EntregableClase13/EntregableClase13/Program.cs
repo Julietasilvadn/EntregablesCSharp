@@ -1,4 +1,5 @@
-﻿using Entidades;
+﻿using SistemaGestionEntities;
+using SistemaGestionData;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,34 +8,18 @@ using System.Threading.Tasks;
 
 namespace EntregableClase13
 {
-    internal class Program
-    {
-      {
-        public static void Main(string[] args)
+       internal class Program
         {
-            var builder = WebApplication.CreateBuilder(args);
-
-
-            builder.Services.AddControllers();
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
-
-            var app = builder.Build();
-
-            if (app.Environment.IsDevelopment())
+            static void Main(string[] args)
             {
-                app.UseSwagger();
-                app.UseSwaggerUI();
+                Console.WriteLine("Hello, World!");
+
+                List<Usuario> listado = UsuarioADO.ObtenerTodosLosUsuarios();
+
+
+                Console.WriteLine("Termine");
+
             }
-
-            app.UseHttpsRedirection();
-
-            app.UseAuthorization();
-
-
-            app.MapControllers();
-
-            app.Run();
         }
-    }
+    
 }

@@ -1,4 +1,4 @@
-﻿namespace Entidades
+﻿namespace SistemaGestionEntities
 {
     public class Usuario
     {
